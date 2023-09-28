@@ -1,2 +1,2 @@
 # dar-app
-Exploration-based.
+Exploration-based repository
